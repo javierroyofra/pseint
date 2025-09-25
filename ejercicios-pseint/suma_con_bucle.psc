@@ -7,7 +7,11 @@ Algoritmo suma_con_bucle
 		//pedir los numero
 		Escribir "introduce un numero"
 		leer num
+<<<<<<< HEAD
 		//añadir el numero introducido a la suma
+=======
+		//aÃ±adir el numero introducido a la suma
+>>>>>>> e6b0837eafb7441cda3e50e759a6f2a45c4cbdbb
 		suma = suma + num
 	Fin Para
 	//mostrar el resultado final
